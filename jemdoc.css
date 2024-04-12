@@ -139,6 +139,10 @@ h2 + h3 {
     padding-top: 0.2em;
 }
 
+h2 .red-text {
+color: red;
+}
+
 h3 {
 	font-size: 110%;
 	border-bottom: none;
